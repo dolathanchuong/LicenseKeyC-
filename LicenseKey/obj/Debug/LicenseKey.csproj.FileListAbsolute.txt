@@ -1,0 +1,76 @@
+E:\FoxLearn\Source\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+E:\FoxLearn\Source\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+E:\FoxLearn\Source\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+E:\FoxLearn\Source\LicenseKey\LicenseKey\bin\Debug\FoxLearn.License.dll
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojResolveAssemblyReference.cache
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.Cache
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+E:\FoxLearn\Source\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\mscorlib.dll
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\System.Net.Http.dll
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\System.Net.Http.xml
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\normidna.nlp
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\normnfc.nlp
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\normnfd.nlp
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\normnfkc.nlp
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\bin\Debug\normnfkd.nlp
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojResolveAssemblyReference.cache
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\zee ch\Downloads\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.Cache
+D:\projects\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+D:\projects\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+D:\projects\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\projects\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\projects\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+D:\projects\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojResolveAssemblyReference.cache
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+D:\projects\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.Cache
+D:\C#\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\C#\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+D:\C#\LicenseKey\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojResolveAssemblyReference.cache
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+D:\C#\LicenseKey\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.Cache
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CopyComplete
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\Acer\Downloads\Compressed\LicenseKey\LicenseKey\bin\Debug\NugetDemo.dll
